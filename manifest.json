@@ -1,6 +1,6 @@
 {
     "events":   [],
-    "portrait": [],
+    "portrait": ["images/portrait/Shoot_jdsp_FO1.jpg","images/portrait/Shoot_jdsp_FO2.jpg","images/portrait/Shoot_jdsp_CI1.jpg"],
     "bts":      [],
     "outdoor":  []
   }
